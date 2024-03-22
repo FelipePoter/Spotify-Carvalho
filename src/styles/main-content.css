@@ -4,7 +4,7 @@
     max-width: 80vw;
     height: 100vh;
     margin-left: 320px;
-    margin-right: 56px;
+    margin-right: 12px;
 }
 
 .header__navigation {
@@ -114,7 +114,7 @@
 
 /* PLAYLIST */
 .playlist-container {
-    height: 68vh;
+    height: 66vh;
     padding-top: 16px;
     margin: 10px;
     border-radius: 10px;
@@ -140,7 +140,7 @@
   
   /* SCROLL */
   .offer__scroll-container {
-    max-height: 43vh;
+    max-height: 42vh;
     margin: 24px;
     overflow-y: auto;
   }
